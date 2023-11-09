@@ -3,5 +3,5 @@
 
 Current Proposed Final Project Ideas
 - Deep Fake Detection (And generation if time permits)
-- Facial Expression Recognition
-- Image Generation GAN
+- ~~Facial Expression Recognition~~
+- ~~Image Generation GAN~~
